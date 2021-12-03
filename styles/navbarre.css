@@ -1,0 +1,27 @@
+.navbarre{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 0px;
+    position: sticky top 0px;
+    background-color: black;
+}
+
+.navbarre img{
+	width: 150px;
+	border-radius: 80px;
+}
+
+.nav-menu{
+	list-style: none;
+}
+
+.nav-item{
+	display: inline;
+	margin: 0 16px;
+}
+
+.nav-item a {
+	color: #EDC00F;
+}

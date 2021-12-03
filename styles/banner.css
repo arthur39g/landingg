@@ -1,0 +1,18 @@
+.banner{
+background-color: rgb(61, 17, 14);
+    height: 65vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1{
+	color: white;
+}
+
+.banner h2{
+	color: white;
+}
